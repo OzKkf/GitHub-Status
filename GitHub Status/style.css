@@ -2,11 +2,13 @@ body {
     background: whitesmoke;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 header {
     text-align: center;
     color: cornflowerblue;
     font: normal bold 2em 'lucida';
 } 
+
 section {
     background: white;
     box-shadow: 5px 5px 25px rgb(199, 199, 199);
@@ -15,6 +17,7 @@ section {
     text-align: center;
     height: 740px;
 }
+
 input {
     background: white;
     color: cornflowerblue;
@@ -25,19 +28,23 @@ input {
     width: 200px;
     height: 70px;
 }
+
 #btn:hover {
     background: cornflowerblue;
     color: white;    
     border-radius: 10px;
     box-shadow: 5px 5px 10px cornflowerblue;
 }
+
 a {
     color: cornflowerblue;
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 footer {
     text-align: center;
 }
